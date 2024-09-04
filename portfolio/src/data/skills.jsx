@@ -14,16 +14,16 @@ const skills = [
 
         }
     },
-    {
-        id: 19,
-        icon: <CPlusPlus />,
-        name: "C++",
-        style: {
-            shadow: "shadow-[#004482]",
-            cover: "from-black to-[#004482] rounded-b-md",
-            opacity: "opacity-80"
-        }
-    },
+    // {
+    //     id: 19,
+    //     icon: <CPlusPlus />,
+    //     name: "C++",
+    //     style: {
+    //         shadow: "shadow-[#004482]",
+    //         cover: "from-black to-[#004482] rounded-b-md",
+    //         opacity: "opacity-80"
+    //     }
+    // },
     {
         id: 20,
         icon: <Python />,
@@ -107,17 +107,17 @@ const skills = [
         }
     },
 
-    // {
+    //  {
     //     id: 12,
-    //     icon: <SASS />,
+    //      icon: <SASS />,
     //     name: "SASS",
-    //     style: {
-    //         shadow: "shadow-[#CC6699]",
-    //         cover: "from-black to-[#CC6699] rounded-b-md",
-    //         opacity: "opacity-80"
+    //      style: {
+    //          shadow: "shadow-[#CC6699]",
+    //          cover: "from-black to-[#CC6699] rounded-b-md",
+    //          opacity: "opacity-80"
 
-    //     }
-    // },
+    //      }
+    //  },
 
     {
         id: 7,
@@ -130,17 +130,17 @@ const skills = [
         }
     },
 
-    // {
-    //     id: 8,
+    {
+        id: 8,
 
-    //     icon: <NodeJS />,
-    //     name: "Node Js",
-    //     style: {
-    //         shadow: "shadow-[#83CD27]",
-    //         cover: "from-black to-[#83CD27] rounded-b-md",
-    //         opacity: "opacity-80"
-    //     }
-    // },
+        icon: <NodeJS />,
+        name: "Node Js",
+        style: {
+            shadow: "shadow-[#83CD27]",
+            cover: "from-black to-[#83CD27] rounded-b-md",
+            opacity: "opacity-80"
+        }
+    },
     // {
     //     id: 9,
     //     icon: <NextJs />,
@@ -153,16 +153,16 @@ const skills = [
     //     }
     // },
   
-    // {
-    //     id: 11,
-    //     icon: <Bootstrap />,
-    //     name: "Bootstrap",
-    //     style: {
-    //         shadow: "shadow-[#6610F2]",
-    //         cover: "from-black to-[#6610F2] rounded-b-md",
-    //         opacity: "opacity-80"
-    //     }
-    // },
+    {
+        id: 11,
+        icon: <Bootstrap />,
+        name: "Bootstrap",
+        style: {
+            shadow: "shadow-[#6610F2]",
+            cover: "from-black to-[#6610F2] rounded-b-md",
+            opacity: "opacity-80"
+        }
+    },
    
     // {
     //     id: 13,
@@ -175,17 +175,17 @@ const skills = [
 
     //     }
     // },
-    // {
-    //     id: 14,
-    //     icon: <MySQL />,
-    //     name: "MySQL",
-    //     style: {
-    //         shadow: "shadow-[#00618A]",
-    //         cover: "from-black to-[#00618A] rounded-b-md",
-    //         opacity: "opacity-80"
+    {
+        id: 14,
+        icon: <MySQL />,
+        name: "MySQL",
+        style: {
+            shadow: "shadow-[#00618A]",
+            cover: "from-black to-[#00618A] rounded-b-md",
+            opacity: "opacity-80"
 
-    //     }
-    // },
+        }
+    },
     // {
     //     id: 33,
     //     icon: <PostGreSql />,

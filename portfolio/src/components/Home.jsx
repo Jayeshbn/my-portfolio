@@ -5,7 +5,15 @@ import { ArrowDown } from "./Icons";
 import Avatar from "../assets/Avatars/jayu.jpg"
 import contactInfo from '../data/contactInfo';
 const Home = () => {
-    const work = ['Frontend Development', 2000]
+    const work = [
+        "Frontend Development",
+        2000,
+        "Backend Development",
+        2000,
+        "Data Analyst",
+        2000
+      ];
+    
 
     return (
         <div name='Home' className='pt-8 h-full min-h-screen w-full flex items-center bg-gradient-to-b from-black via-black to-gray-800 '>
