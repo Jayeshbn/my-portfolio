@@ -42,7 +42,7 @@ const projects = [
         img: Dev_News,
         name: "Dev News",
         demo: "https://dev-news-793.vercel.app/",
-        code: "https://github.com/dhawal-793/Dev_News",
+        code: "",
         description: "Dev News is a news website, where you can find the latest news anytime, anywhere",
         style: {
             shadow: "shadow-[#FB923C]",
@@ -67,7 +67,7 @@ const projects = [
         name: "Portfolio",
         demo: "https://my-portfolio-lake-sigma-13.vercel.app/",
         code: "https://github.com/Jayeshbn/my-portfolio.git",
-        description: "Devfolio: Dhawal's Personal portfolio built with React Js, Tailwind CSS and Vite Js",
+        description: "Personal portfolio built with React Js, Tailwind CSS and Vite Js",
         style: {
             shadow: "shadow-[#23CEEE]",
             cover: "from-[#23CEEE]",
@@ -90,7 +90,7 @@ const projects = [
         img: FAC,
         name: "FontAwesome Clone",
         demo: "https://dhawal-793.github.io/Font-Awesome-Clone/",
-        code: "https://github.com/dhawal-793/Font-Awesome-Clone",
+        code: "https://github.com/Jayeshbn/Font-awesome-clone.git",
         description: "FontAwesome Clone is a Project based on Fontawesome.com, created using React Js and Tailwind CSS.",
         style: {
             shadow: "shadow-[#FFD43B]",
