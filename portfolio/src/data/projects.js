@@ -125,8 +125,8 @@ const projects = [
     {
         img: ECF,
         name: "Ecommerce Frontend",
-        demo: "https://dhawal-793.github.io/E-Commerce-Website-Front-End-Design/",
-        code: "https://github.com/dhawal-793/E-Commerce-Website-Front-End-Design",
+        demo: "e-commerce-website-front-end-design.vercel.app",
+        code: "https://github.com/Jayeshbn/E-commerce-website-front-end-design.git",
         description: "Frontend Design of an Ecommerce Website created using HTML CSS JS and Bootstrap.",
         style: {
             shadow: "shadow-[#CEC3FB]",
