@@ -125,7 +125,7 @@ const projects = [
     {
         img: ECF,
         name: "Ecommerce Frontend",
-        demo: "e-commerce-website-front-end-design.vercel.app",
+        demo: "https://e-commerce-website-front-end-design.vercel.app/",
         code: "https://github.com/Jayeshbn/E-commerce-website-front-end-design.git",
         description: "Frontend Design of an Ecommerce Website created using HTML CSS JS and Bootstrap.",
         style: {
