@@ -1,7 +1,7 @@
 import React from 'react'
 import { Download } from './Icons';
-import resume from "../assets/resume.pdf"
-import profile from "../assets/profile.jpg"
+import resume from "../assets/resume.pdf";
+import profile from "../assets/profile.jpg";
 import SectionHeading from './SectionHeading';
 import techStack from '../data/techStack';
 
