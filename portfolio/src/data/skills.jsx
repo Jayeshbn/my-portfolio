@@ -14,27 +14,27 @@ const skills = [
 
         }
     },
-    // {
-    //     id: 19,
-    //     icon: <CPlusPlus />,
-    //     name: "C++",
-    //     style: {
-    //         shadow: "shadow-[#004482]",
-    //         cover: "from-black to-[#004482] rounded-b-md",
-    //         opacity: "opacity-80"
-    //     }
-    // },
     {
-        id: 20,
-        icon: <Python />,
-        name: "Python",
+        id: 19,
+        icon: <CPlusPlus />,
+        name: "C++",
         style: {
-            shadow: "shadow-[#ddbe4e]",
-            cover: "from-black to-[#ddbe4e] rounded-b-md",
+            shadow: "shadow-[#004482]",
+            cover: "from-black to-[#004482] rounded-b-md",
             opacity: "opacity-80"
-
         }
     },
+    // {
+    //     id: 20,
+    //     icon: <Python />,
+    //     name: "Python",
+    //     style: {
+    //         shadow: "shadow-[#ddbe4e]",
+    //         cover: "from-black to-[#ddbe4e] rounded-b-md",
+    //         opacity: "opacity-80"
+
+    //     }
+    // },
     {
         id: 1,
         icon: <HTML />,
@@ -65,16 +65,16 @@ const skills = [
             opacity: "opacity-80"
         }
     },
-    // {
-    //     id: 4,
-    //     icon: <TS />,
-    //     name: "TS",
-    //     style: {
-    //         shadow: "shadow-[#3481d3]",
-    //         cover: "from-black to-[#3481d3] rounded-b-md",
-    //         opacity: "opacity-80"
-    //     }
-    // },
+    {
+        id: 4,
+        icon: <TS />,
+        name: "TS",
+        style: {
+            shadow: "shadow-[#3481d3]",
+            cover: "from-black to-[#3481d3] rounded-b-md",
+            opacity: "opacity-80"
+        }
+    },
     // {
     //     id: 5,
     //     icon: <MongoDB />,
@@ -86,16 +86,16 @@ const skills = [
 
     //     }
     // },
-    // {
-    //     id: 6,
-    //     icon: <ExpressJS />,
-    //     name: "Express Js",
-    //     style: {
-    //         shadow: "shadow-[#444444]",
-    //         cover: "from-black to-[#444444] rounded-b-md",
-    //         opacity: "opacity-80"
-    //     }
-    // },
+    {
+        id: 6,
+        icon: <ExpressJS />,
+        name: "Express Js",
+        style: {
+            shadow: "shadow-[#444444]",
+            cover: "from-black to-[#444444] rounded-b-md",
+            opacity: "opacity-80"
+        }
+    },
     {
         id: 10,
         icon: <TailwindCSS />,
@@ -186,17 +186,17 @@ const skills = [
 
         }
     },
-    // {
-    //     id: 33,
-    //     icon: <PostGreSql />,
-    //     name: "PostgreSql",
-    //     style: {
-    //         shadow: "shadow-[#336791]",
-    //         cover: "from-black to-[#336791] rounded-b-md",
-    //         opacity: "opacity-80"
+    {
+        id: 33,
+        icon: <PostGreSql />,
+        name: "PostgreSql",
+        style: {
+            shadow: "shadow-[#336791]",
+            cover: "from-black to-[#336791] rounded-b-md",
+            opacity: "opacity-80"
 
-    //     }
-    // },
+        }
+    },
     // {
     //     id: 15,
     //     icon: <FireBase />,
@@ -241,17 +241,17 @@ const skills = [
     // },
    
    
-    // {
-    //     id: 21,
-    //     icon: <Java />,
-    //     name: "Java",
-    //     style: {
-    //         shadow: "shadow-[#E76F00]",
-    //         cover: "from-black to-[#E76F00] rounded-b-md",
-    //         opacity: "opacity-80"
+    {
+        id: 21,
+        icon: <Java />,
+        name: "Java",
+        style: {
+            shadow: "shadow-[#E76F00]",
+            cover: "from-black to-[#E76F00] rounded-b-md",
+            opacity: "opacity-80"
 
-    //     }
-    // },
+        }
+    },
     
     // {
     //     id: 23,
@@ -308,17 +308,17 @@ const skills = [
 
     //     }
     // // },
-    // {
-    //     id: 28,
-    //     icon: <Redux />,
-    //     name: "Redux",
-    //     style: {
-    //         shadow: "shadow-[#764ABC]",
-    //         cover: "from-black to-[#764ABC] rounded-b-md",
-    //         opacity: "opacity-80"
+    {
+        id: 28,
+        icon: <Redux />,
+        name: "Redux",
+        style: {
+            shadow: "shadow-[#764ABC]",
+            cover: "from-black to-[#764ABC] rounded-b-md",
+            opacity: "opacity-80"
 
-    //     }
-    // },
+        }
+    },
     // {
     //     id: 29,
     //     icon: <PostMan />,
@@ -341,17 +341,17 @@ const skills = [
 
     //     }
     // },
-    // {
-    //     id: 31,
-    //     icon: <Doker />,
-    //     name: "Doker",
-    //     style: {
-    //         shadow: "shadow-[#0091E2]",
-    //         cover: "from-black to-[#0091E2] rounded-b-md",
-    //         opacity: "opacity-80"
+    {
+        id: 31,
+        icon: <Doker />,
+        name: "Doker",
+        style: {
+            shadow: "shadow-[#0091E2]",
+            cover: "from-black to-[#0091E2] rounded-b-md",
+            opacity: "opacity-80"
 
-    //     }
-    // },
+        }
+    },
      // {
     //     id: 32,
     //     icon: <Kubernets />,

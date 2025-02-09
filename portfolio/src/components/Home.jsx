@@ -6,11 +6,7 @@ import Avatar from "../assets/Avatars/jayu.jpg"
 import contactInfo from '../data/contactInfo';
 const Home = () => {
     const work = [
-        "Frontend Development",
-        2000,
-        "Backend Development",
-        2000,
-        "Data Analyst",
+        "Full-stack developer",
         2000
       ];
     
