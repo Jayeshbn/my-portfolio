@@ -6,7 +6,7 @@ import Avatar from "../assets/Avatars/jayu.jpg"
 import contactInfo from '../data/contactInfo';
 const Home = () => {
     const work = [
-        "Full-stack developer",
+        "a Full-Stack Developer who loves turning ideas into efficient, user-friendly web solutions",
         2000
       ];
     
@@ -24,7 +24,7 @@ const Home = () => {
                         <span className='text-transparent bg-gradient-to-br from-cyan-300 to-blue-600 bg-clip-text'> Jayesh B N </span>
                     </h1>
                     <p className='text-gray-400 text-xl xs:text-2xl font-semibold py-4 min-w-[16rem] xs:min-w-[25rem] max-w-[26rem]'>
-                        <span className='block xs:inline'> a Full-Stack Developer who loves turning ideas into efficient, user-friendly web solutions</span>
+                        <span className='block xs:inline'> </span>
                         <span className='text-cyan-400 xs:pl-2'>
                             <TypeAnimation
                                 sequence={work}
