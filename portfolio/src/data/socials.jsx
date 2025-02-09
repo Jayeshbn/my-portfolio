@@ -27,7 +27,7 @@ const socials = [
     {
         id: 4,
         name: "Resume",
-        link: "https://drive.google.com/file/d/1JaO9ZRJUO5Bwj-n6lAf-_OlrZjnR9_z-/view?usp=sharing",
+        link: "https://drive.google.com/file/d/1YT8nISDj2UCK_WAHDVH6W6NMn8R4EH0C/view?usp=sharing",
         icon: <BsPersonLinesFill size={22} />,
         style: "hover:bg-black rounded-br-md hover:text-[#5EEAC5]",
         download: true

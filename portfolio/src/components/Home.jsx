@@ -6,7 +6,7 @@ import Avatar from "../assets/Avatars/jayu.jpg"
 import contactInfo from '../data/contactInfo';
 const Home = () => {
     const work = [
-        "a Full-Stack Developer who loves turning ideas into efficient, user-friendly web solutions",
+        "a Full-Stack Developer who loves turning ideas into efficient, user-friendly web solutions.",
         2000
       ];
     
