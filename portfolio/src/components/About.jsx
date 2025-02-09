@@ -17,13 +17,14 @@ const About = () => {
                     <h3 className='text-2xl xs:text-3xl  sm:text-4xl md:text-5xl lg:text-6xl font-semibold '>Hi, I'm <span className='text-cyan-500 block xs:inline'>Jayesh B N</span></h3>
                     <div className='text-gray-400 py-4 space-y-2 md:space-y-2 md:pt-8 lg:pt-12 font-semibold text-justify'>
                         <p className='leading-tight'>
-                            An aspiring Full stack Developer and Data analyst.<br></br> I mostly works on Frontend using React and Tailwind CSS.
+                        A proficient Full-Stack Developer with expertise in React, Node.js, Express.js and MySQL, combined with a strong foundation in networking and 
+                        database management. Seeking to apply my knowledge in web development and network security to build efficient and secure applications
                         </p>
-                        {/* <p className='leading-tight'> I also love to make beautiful Web Applications with technologies like MERN Stack, NextJs.</p> */}
-                        <p className='leading-tight'>
+                      
+                        {/* <p className='leading-tight'>
                             Coding Enthusuast, quick learner and Passionate Web Developer currently pursuing 
                             BE in Electronic and Communication Engineer at Bangalore Institute of Technology, Bangalore, Karnataka.
-                        </p>
+                        </p> */}
                     </div>
                     {/* <div className='py-3 text-gray-50 sm:flex font-semibold'>
                         <div className='mb-3'>  My Tech Stack ~</div>
